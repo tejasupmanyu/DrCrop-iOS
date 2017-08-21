@@ -2,7 +2,8 @@
 
 ## Overview
 
-There are two directories One contains iOS App Source Code and Other Contains Django Project which serves the Machine Learning Model
+There are two directories One contains iOS App Source Code and Other Contains Django Project which serves the Machine Learning Model.
+Here only one is provided, contact authors for another and support. Shoot a mail to tejasupmanyu@gmail.com| shivamb45@yahoo.in
 
 ## Running Project
 
