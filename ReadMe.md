@@ -1,10 +1,13 @@
-# Dr. Crop | Prototype for Rajasthan Hackathon 2.0
+# KrishiKalp | Prototype 
+
+
 
 ## Overview
 
 There are two directories One contains iOS App Source Code and Other Contains Django Project which serves the Machine Learning Model.
 Here only one is provided, contact authors for another and support. Shoot a mail to tejasupmanyu@gmail.com| shivamb45@yahoo.in
 
+![Image of KrishiKalp Informatics](https://github.com/tejasupmanyu/DrCrop-iOS/InformaticsKrishikalp.png)
 ## Running Project
 
 You need to resolve depencies of FarmerAssistant Django Project.
